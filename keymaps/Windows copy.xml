@@ -1,0 +1,20 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="numpad9" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart" />
+  <action id="NavBar-selectHome" />
+  <action id="RecentFiles" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>

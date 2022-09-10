@@ -1,0 +1,27 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Polish" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="zostaje automatycznie uruchomiona przed kazdym plikiem Suite z TestNG Podczas wywołania metody zostają stworzone 3 foldery:" />
+            <option value="klika w podany lokator co 2 sekundy puki lokator nie jest obecny na stronie," />
+            <option value="jest wyłączone metoda ta nagra filmik z przebiegu testu przy pomocy rozszeżenia BrowseWatcher (" />
+            <option value="klika w pętli na podany element do momentu aż nieodnaleziony zostanie element z podanym tekstem bądź" />
+            <option value="który jest" />
+            <option value="dla projektu AMRON Dla projektu" />
+            <option value="którego zostanie" />
+            <option value="klika w pętli na podany element do momentu aż nieodnaleziony zostanie element z DOKŁADNIE podanym tekstem bądź" />
+            <option value="Metoda zwracająca String, który znajduje się w danej kolumnie i wierszu używając selektora //tr i //td." />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
