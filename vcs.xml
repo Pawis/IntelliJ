@@ -30,6 +30,10 @@
           <option name="url" value="ssh://git@gitlab.enigma.com.pl:2222/enigma/gitd-ibtm/backend/ibtm-domain.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.enigma.com.pl:2222/enigma/avispon2/server/document-generator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
